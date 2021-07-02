@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CodoACodo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CodoACodo_jar</output-path>
+    <root id="archive" name="CodoACodo.jar">
+      <element id="module-output" name="CodoACodo" />
+    </root>
+  </artifact>
+</component>
